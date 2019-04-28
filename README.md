@@ -2,6 +2,8 @@
 
 A Brainstorm Optimization Algorithm (BSO-II) demo just for educational purpose.
 
+![test image size](https://raw.githubusercontent.com/OverEuro/Brainstorm-Optimization/master/exp.png)
+
 More detail can be discovered at:
 https://ieeexplore.ieee.org/document/7257029
 
